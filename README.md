@@ -1,19 +1,19 @@
-<div align="center">
-
-# Google Page
+# Google-Page
 
 A static replica of Google homepage
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html&logoColor=white)
 
-</div>
+## About
+
+🔬 **Implementation Study** built with HTML / CSS / JS.
+
+<!-- 
+  Add a demo GIF here:
+  ![Demo](demo.gif)
+-->
+
 
 ---
 
-## Quick Start
-
-```bash
-git clone https://github.com/stussysenik/Google-Page.git
-cd Google-Page
-```
+*Built by [@stussysenik](https://github.com/stussysenik)*
